@@ -11,7 +11,7 @@ Within the Data Science Services, the data scientist was involved in a significa
 
 Big Impact Project 2:
 In another noteworthy project, the data scientist played a key role in driving positive outcomes for the Data Science Services. Employing their data science skills, they were able to solve intricate challenges and deliver meaningful results. Their contributions were instrumental in optimizing processes, enhancing decision-making, or achieving specific business objectives, leaving a lasting impact on the organization.
-
+! [ Discovery](/assets/img/bike_study.jpeg)
 Projects:
 In addition to their work experience, the data scientist has also undertaken various projects that demonstrate their passion for data science and their ability to apply their skills in practical settings.
 
